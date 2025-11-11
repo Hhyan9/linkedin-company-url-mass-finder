@@ -1,0 +1,10 @@
+{
+  "search_engine": "https://www.bing.com/search",
+  "query_template": "site:linkedin.com/company {company}",
+  "results_per_company": 5,
+  "start_page": 1,
+  "max_pages": 1,
+  "request_timeout_seconds": 10,
+  "request_delay_seconds": 1.0,
+  "user_agent": "Mozilla/5.0 (compatible; LinkedInCompanyURLMassFinder/1.0; +https://bitbash.dev)"
+}
